@@ -3,3 +3,13 @@
     font-weight: bold;
     font-style: normal;
  }
+ #body1{
+    background-color: crimson;
+    display: flex;
+    justify-content: center;
+ }
+ #form1{
+    background-color: aliceblue;
+    width: 600px;
+    
+ }
