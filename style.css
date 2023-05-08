@@ -7,9 +7,12 @@
     background-color: crimson;
     display: flex;
     justify-content: center;
+    align-content: 400px;
  }
  #form1{
     background-color: aliceblue;
     width: 600px;
+    padding: 40px;
     
  }
+ #
