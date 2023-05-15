@@ -1,0 +1,17 @@
+#login{
+    background-color: crimson;
+    display: flex;
+    justify-content: center;
+    margin:auto ;
+    width: 50%;
+}
+#Form1{
+    background-color: aliceblue;
+    width: 600px;
+    padding: 40px;
+}
+#login1{
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+}
