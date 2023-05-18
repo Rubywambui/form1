@@ -4,14 +4,20 @@
     justify-content: center;
     margin:auto ;
     width: 50%;
+    align-items: center;
 }
 #Form1{
     background-color: aliceblue;
     width: 600px;
     padding: 40px;
+    align-items: center;
+
 }
 #login1{
     text-align: center;
     font-weight: bold;
     font-style: normal;
+}
+#login112{
+    height: 100%;
 }

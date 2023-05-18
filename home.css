@@ -1,0 +1,9 @@
+#DIVS{
+    display: flex;
+    justify-content: space-between;
+}
+.IMGS{
+    height: 400px;
+    width: 300px;
+    
+}
