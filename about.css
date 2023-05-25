@@ -1,0 +1,21 @@
+#boddd{
+    background-color: crimson;
+}
+#idd{
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+}
+#div1{
+    height: 400px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+#P1{
+    font-size: large;
+}
+.divi img{
+    height: 400px;
+    width: 500px;
+}
